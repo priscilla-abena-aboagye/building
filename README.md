@@ -27,7 +27,7 @@ In the CSS, I created a root style to define the color, allowing me to reuse it 
 This was styled to display daylight when maximized and transition to nighttime when minimized.
 
 - Daytime
-![Daytime](daylight-building.PNG)
+![Daytime](./images/daylight-building.PNG)
 
 - Night time
-![Nighttime](night-time.PNG)
+![Nighttime](./images/night-time.PNG)
