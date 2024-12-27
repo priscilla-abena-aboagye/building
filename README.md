@@ -22,3 +22,12 @@ In the CSS, I created a root style to define the color, allowing me to reuse it 
 - building, foreground building
   - With the help of FreeCodeCamp, I styled it in CSS to resemble a realistic building
 - The sun was crafted usuing CSS to give it a realistic appearance
+
+---
+This was styled to display daylight when maximized and transition to nighttime when minimized.
+
+- Daytime
+![Daytime](daylight-building.PNG)
+
+- Night time
+![Nighttime](night-time.PNG)
