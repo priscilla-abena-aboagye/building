@@ -3,7 +3,7 @@
 This project was done purely to upgrade my CSS skills by the help of FreeCodeCamp
 ----
 
-## Overview
+## Overview and Technologies Used
 
 - Html
 - CSS
